@@ -59,3 +59,6 @@ part of the training up and running. If there are any questions, reach out to me
 ## Start Developing
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+
+As of Apr 1 2020, both the branches (master and final) are working and have nearly the same code.
+ngConf2020 - Reactive Angular - By Aaron Frost.
